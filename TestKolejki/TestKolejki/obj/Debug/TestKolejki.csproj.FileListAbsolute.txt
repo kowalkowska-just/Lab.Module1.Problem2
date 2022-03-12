@@ -1,0 +1,8 @@
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 2 Justyna Kowalkowska\TestKolejki\TestKolejki\bin\Debug\TestKolejki.exe.config
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 2 Justyna Kowalkowska\TestKolejki\TestKolejki\bin\Debug\TestKolejki.exe
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 2 Justyna Kowalkowska\TestKolejki\TestKolejki\bin\Debug\TestKolejki.pdb
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 2 Justyna Kowalkowska\TestKolejki\TestKolejki\obj\Debug\TestKolejki.csproj.AssemblyReference.cache
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 2 Justyna Kowalkowska\TestKolejki\TestKolejki\obj\Debug\TestKolejki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 2 Justyna Kowalkowska\TestKolejki\TestKolejki\obj\Debug\TestKolejki.csproj.CoreCompileInputs.cache
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 2 Justyna Kowalkowska\TestKolejki\TestKolejki\obj\Debug\TestKolejki.exe
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 2 Justyna Kowalkowska\TestKolejki\TestKolejki\obj\Debug\TestKolejki.pdb
